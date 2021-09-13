@@ -1,0 +1,15 @@
+
+
+.yesNo-options-container {
+  display: flex-end;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.yesNo-option-button {
+  padding: 0.5rem;
+  border-radius: 25px;
+  background: transparent;
+  border: 1px solid #2f215f;
+  margin: 3px;
+}
